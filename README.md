@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/jashan110)
 
-- 🌟I'm extremely busy learning Java for a stupid exam (AP Computer Science A)
+- 🌟I'm extremely busy learning **Java** for a stupid exam (AP Computer Science A)
 
 - 💬 Ask me about **basic python**
 
