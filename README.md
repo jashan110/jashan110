@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **basic python**
 
-- 📫 How to reach me **jashan1100@protonmail.com**
+- 📫 Reach me at **jashan1100@protonmail.com**
 
 - 🌟I'm a cool **PRO** user😎
 
