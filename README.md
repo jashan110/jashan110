@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jashan</h1>
-<h3 align="center">A computer science student from India</h3>
+<h3 align="center">Prospective Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashan110&label=Profile%20views&color=0e75b6&style=flat" alt="jashan110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashan110" alt="jashan110" /></a> </p>
 
-- 🔭 I’m currently working on **mastering Python**
+- 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Front-End Development**
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/jashan110)
-
-- 🌟I'm extremely busy learning **Java** for a stupid exam (AP Computer Science A)
-
-- 💬 Ask me about **basic python**
 
 - 📫 Reach me at **jashan1100@protonmail.com**
 
