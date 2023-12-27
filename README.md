@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jashan</h1>
 <h3 align="center">Prospective Computer Science & Engineering Student</h3>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1055478146981429396/](https://discord.com/users/1055478146981429396)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashan110&label=Profile%20views&color=0e75b6&style=flat" alt="jashan110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashan110" alt="jashan110" /></a> </p>
