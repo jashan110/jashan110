@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashan1100&label=Profile%20views&color=0e75b6&style=flat" alt="jashan1100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashan110" alt="jashan1100" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashan1100" alt="jashan1100" /></a> </p>
 
 - 🔭 I’m currently working on **learning programming.**
 
