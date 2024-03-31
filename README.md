@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jashan</h1>
-<h3 align="center">Prospective Computer Science & Engineering Student</h3><div align="center">
+<h3 align="center">Your average nerd.</h3><div align="center">
   
 <div align="center">
   
@@ -12,9 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashan1100" alt="jashan1100" /></a> </p>
 
-- 🔭 I’m currently working on **learning programming.**
-
-- 🌱 I’m currently learning **Front-End Development.**
+- 🌱 I’m currently learning **Nothing.**
 
 - 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/jashan1100)
 
